@@ -1,5 +1,3 @@
-# Nebali
-
 [keybase.txt](https://nebali.blockaid.fund/keybase.txt)
 
 <a title="Keybase" target="_blank" href="https://keybase.io/nebali">
