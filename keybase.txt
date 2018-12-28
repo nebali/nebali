@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nebali
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nebali.blockaid.network
+  * I am nebali (https://keybase.io/nebali) on keybase.
+  * I have a public key ASACFTonW0zljI0ofXIfg2gzbx3kXNPGJA77Oi1eJOuIWwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b237c241d624f2b55db143cb6cdba8af1302c779cccbaf3689bb1ee8337009020a",
+      "host": "keybase.io",
+      "kid": "012002153a275b4ce58c8d287d721f8368336f1de45cd3c6240efb3a2d5e24eb885b0a",
+      "uid": "a52787812a7073dd5408a8c80a460619",
+      "username": "nebali"
+    },
+    "merkle_root": {
+      "ctime": 1546001968,
+      "hash": "09ae4ca26811f92e24b03c4517356babab7e8f8e532cd2f2fc7065f2a72b91bf9faec9c31e6bcf8667f8a36f732860574603e8fea32e7963a87c0c7cc76aafa1",
+      "hash_meta": "6cbd9ae68569c96453a884dbc89e69d59f195d804a841337c3880bc9663dc2cc",
+      "seqno": 4202911
+    },
+    "service": {
+      "entropy": "tFCK07gA8y0EY3D4AIircsmV",
+      "hostname": "nebali.blockaid.network",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.2"
+  },
+  "ctime": 1546001989,
+  "expire_in": 504576000,
+  "prev": "896d46355f5429d37cac595e1eb3faa46a24df8b88c07f97a9fbcfeac117e5fb",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAhU6J1tM5YyNKH1yH4NoM28d5FzTxiQO+zotXiTriFsKp3BheWxvYWTESpcCI8QgiW1GNV9UKdN8rFleHrP6pGok34uIwH+XqfvP6sEX5fvEIK7jujpH8Sj4jDcdVHN9FJPj8VV0IbN/le2rmGnXtkSEAgHCo3NpZ8RALQwDKj+QnjQNtfTOv60mvHzIQNIMVT7ubo5fYgd4cuaDJy9AN6hPnwv6MC/fttIB0ESx6z1O2gD8OFXJqcjDAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILB1arEmC98PuTZpmvrBorzSDcIuOU07YtVl8dS3FtW1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nebali
+
+==================================================================
