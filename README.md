@@ -1,3 +1,3 @@
 # nebali
 
-[Keybase.txt](https://nebali.blockaid.network/keybase.txt)
+[Keybase.txt](https://nebali.blockaid.fund/keybase.txt)
